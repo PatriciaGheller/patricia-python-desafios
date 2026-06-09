@@ -1,0 +1,12 @@
+zelia                          63 anos
+Bryan                          20 anos
+Sara                           23 anos
+Sol                            37 anos
+Sara                           23 anos
+Bryan                          20 anos
+Zelia                          63 anos
+Sol                            37 anos
+Zelia;63
+Bryan;20
+Sara;23
+Sol;37
